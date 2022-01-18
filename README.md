@@ -24,13 +24,19 @@ The template contains the following plugins:
 
   * Graphite
 
-Graphite is an enterprise-ready monitoring tool that runs equally well on cheap hardware or Cloud infrastructure. Teams use Graphite to track the performance of their websites, applications, business services, and networked servers. It marked the start of a new generation of monitoring tools, making it easier than ever to store, retrieve, share, and visualize time-series data.
-https://graphiteapp.org/
+     Graphite is an enterprise-ready monitoring tool that runs equally well on cheap hardware or Cloud infrastructure. 
+     Teams use Graphite to track the performance of the websites, applications, business services, and networked servers. 
+     It marked the start of a new generation of monitoring tools, making it easier than ever to store, retrieve,  share, and visualize time-series data.
+     https://graphiteapp.org/
 
   * Grafana
 
-Grafana is a multi-platform open source analytics and interactive visualization web application. It provides charts, graphs, and alerts for the web when connected to supported data sources. A licensed Grafana Enterprise version with additional capabilities is also available as a self-hosted installation or an account on the Grafana Labs cloud service. It is expandable through a plug-in system. End users can create complex monitoring dashboards using interactive query builders. Grafana is divided into a front end and back end, written in TypeScript and Go, respectively.
-https://grafana.com/
+     Grafana is a multi-platform open source analytics and interactive visualization web application. 
+     It provides charts, graphs, and alerts for the web when connected to supported data sources. 
+     A licensed Grafana Enterprise version with additional capabilities is also available as a self-hosted installation or an account on the Grafana Labs cloud service. 
+     It is expandable through a plug-in system. End users can create complex monitoring dashboards using interactive query builders. 
+     Grafana is divided into a front end and back end, written in TypeScript and Go, respectively.
+     https://grafana.com/
 
   * checkstyle
 
